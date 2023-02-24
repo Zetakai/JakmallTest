@@ -9,5 +9,5 @@ Show case your React Native skills!
 *Thanks! now all is done. i also prepared the apk files so u can just install it into your android it is in ./android/app/build/outputs/apk/debug/app-debug.apk
 
 
-Notes
+#Notes
 I have very limited time to perfect the project. The apk is working on both android and ios. The project doesnt use any 3rd party library its just pure react native cli. i kinda wanted to try section list component from react native. The apk size is big because it's a debug apk. i used samsung A33 and ios emulator for developing the app. That is all i believe. Once again thanks!
